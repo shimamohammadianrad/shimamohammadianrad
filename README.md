@@ -1,11 +1,18 @@
-## Hi there 👋
+### Hello, I'm Shima M. Rad 👋
 
-I'm a product designer and visual designer with over 7 years of experience working with various clients and industries, including OTP generator, crypto, e-commerce, and shipment tracking. I'm passionate about creating products and designs that make people's lives easier and more enjoyable.
+#### About Me
+I am a Senior Product Designer and UI/UX expert with over 8 years of experience, specializing in crafting accessible and engaging digital experiences. Based in [Your Location], my expertise spans design strategy, user interface creation, and enhancing user experiences across various digital platforms.
 
-In addition to my design work, I've spent 2 years mentoring other designers through ADPList. This has been an incredibly rewarding experience for me, as I've been able to help designers grow their skills, build their confidence, and achieve their career goals. Mentoring has also taught me a lot about communication, leadership, and empathy, which are crucial skills for any designer.
+#### Expertise
+- **Product Design & UI/UX**: From concept to execution, I focus on delivering seamless user experiences.
+- **Frontend Development**: Proficient in HTML, CSS, JavaScript; adept at transforming designs into interactive elements.
+- **Collaborative Leadership**: Experienced in leading cross-functional teams and fostering collaborative environments.
+- **Tools**: Highly skilled with Adobe XD, and Figma.
 
-### 💬 Get in touch 
-- LinkedIn: https://www.linkedin.com/in/shima-mohammadianrad
-- Behance: https://www.behance.net/shimamohammadianrad
-- Dribbble: https://dribbble.com/shimamohammadianrad
-- ADPList: https://adplist.org/mentors/shima-mohammadian-rad
+#### Connect
+- **LinkedIn**: https://www.linkedin.com/in/shima-mohammadianrad
+- **Portfolio**: https://www.shimamrad.com/
+- **ADPList**: https://adplist.org/mentors/shima-mohammadian-rad
+- **Email**: mailto:shima.mohammadianrad@gmail.com
+  
+Feel free to explore my repositories to understand more about my professional capabilities. I’m always open to collaborating on innovative projects challenging the status quo.

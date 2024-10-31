@@ -5,7 +5,7 @@ I am a Senior Product Designer and UI/UX expert with over 8 years of experience,
 
 #### Expertise
 - **Product Design & UI/UX**: From concept to execution, I focus on delivering seamless user experiences.
-- **Frontend Development**: Proficient in HTML, CSS, JavaScript; adept at transforming designs into interactive elements.
+- **Frontend Development**: Proficient in HTML, CSS; adept at transforming designs into interactive elements.
 - **Collaborative Leadership**: Experienced in leading cross-functional teams and fostering collaborative environments.
 - **Tools**: Highly skilled with Adobe XD, and Figma.
 
